@@ -10,7 +10,7 @@ Multihead Latent Attention (MLA) is an advanced attention mechanism designed to 
 ## Illustration
 Below is a conceptual diagram of Deep Seek Architecture:
 
-![MLA Diagram]([https://via.placeholder.com/600x300.png?text=Multihead+Latent+Attention+Diagram](https://github.com/MiguelBenalcazar/miguelbenalcazar.github.io/blob/main/images/Screenshot%202025-03-27%20182912.png))
+![MLA Diagram](https://github.com/MiguelBenalcazar/miguelbenalcazar.github.io/blob/main/images/Screenshot%202025-03-27%20182912.png)
 
 *Caption: Illustration of the basic architecture of DeepSeek-V3. Following DeepSeek-V2, we
 adopt MLA and DeepSeekMoE for efficient inference and economical training*
