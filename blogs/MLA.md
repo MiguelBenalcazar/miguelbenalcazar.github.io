@@ -19,11 +19,11 @@ adopt MLA and DeepSeekMoE for efficient inference and economical training*
 ## Implementation
 You can find the implementation of Multihead Latent Attention in the DeepSeek V3 repository. However, I performed some experiments, you can get the models in the following link:
 
-🔗 [View the code here]([https://github.com/deepseek-ai/DeepSeek-V3/blob/main/inference/model.py#L129](https://github.com/MiguelBenalcazar/research/tree/main/models))
+[View the models here](https://github.com/MiguelBenalcazar/research/tree/main/models)
 
 Additionally, I conducted some experiments with MLA, and the resulting models are available in the following link:
 
-[View the models here](https://github.com/MiguelBenalcazar/research/tree/main/MLA_deepSeek)
+[View the experiments here](https://github.com/MiguelBenalcazar/research/tree/main/MLA_deepSeek)
 
 
 This implementation showcases how MLA processes queries, keys, and values, with options for both a naive approach and an optimized latent-based approach.
